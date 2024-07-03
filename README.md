@@ -58,7 +58,16 @@ Acquired is one of my favourite podcasts (all episodes are highly recommeded). I
 
 ### Why Bitcoin Will Take Over The World: Coinbase CEO Brian Armstrong | Uncommon Knowledge
 
+Brian Armstrong is one of the most interesting leaders in crypto and Bitcoin specifically. He was there from 2011, always with high moral standard and very long term vision. Learning from his prespective about crypto is always "eye openning".
+
 [Watch here](https://www.youtube.com/watch?v=KgUlxorY0Vc)
+
+### Foundation 35 // Brian Armstrong (2014)
+
+Go back in time and see where Brian was then and where he is today. 
+
+[Watch here](https://www.youtube.com/watch?v=ZwG1roO70co)
+
 
 ### Michael Saylor: Bitcoin, Inflation, and the Future of Money | Lex Fridman Podcast #276
 
