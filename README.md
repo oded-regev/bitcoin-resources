@@ -2,6 +2,14 @@
 
 **Disclaimer:** _The information provided in this communication is for informational purposes only and should not be construed as investment advice. Please consult with a financial advisor before making any investment decisions_.
 
+## Table of Contents
+- [Books](#Books)
+- [Articles](#Articles)
+- [Podcasts](#Podcasts)
+- [Videos](#Videos)
+- [Wallets](#Wallets)
+
+
 ## Books
 
 ### The Bitcoin Standard - Saifedean Ammous
