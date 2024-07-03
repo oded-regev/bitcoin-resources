@@ -52,3 +52,24 @@ Acquired is one of my favourite podcasts (all episodes are highly recommeded). I
 
 [Watch here](https://www.youtube.com/watch?v=KgUlxorY0Vc)
 
+### Michael Saylor: Bitcoin, Inflation, and the Future of Money | Lex Fridman Podcast #276
+
+I think that this video marks the point for me when I actually got hooked on Bitcoin. Michael convincingly and eloquently explains the logic and rationale behind Bitcoin and why there are so many good reasons to be optimistic about the direction it's going.
+
+
+[Watch here](https://www.youtube.com/watch?v=mC43pZkpTec)
+
+## Wallets
+
+### [Edge Wallet](https://edge.app/)
+
+For under $1000 or just to get started, this is a super easy to use and secured wallet to install on your smart phone (Android or iOS). The private keys are stored encrypted on your phone and never leave your device. 
+
+### [Trezor Safe 3](https://trezor.io/trezor-safe-3)
+
+My choice for a cold-wallet. Super easy to use and learn how to keep your key safe with backups. 
+
+[See this intro video](https://www.youtube.com/watch?v=RD8_sLE8-F8) to get an idea of how it works
+
+
+
