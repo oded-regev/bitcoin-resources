@@ -28,4 +28,4 @@ This book actually covers the "dark side" of crypto. Mostly NFT's and shit-coins
 
 ### Square, Inc. Bitcoin Investment Whitepaper
 
-[Read here]()
+[Read here](Square-Inc.-Bitcoin-Investment-Whitepaper.pdf)
