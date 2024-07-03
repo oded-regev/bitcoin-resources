@@ -28,4 +28,27 @@ This book actually covers the "dark side" of crypto. Mostly NFT's and shit-coins
 
 ### Square, Inc. Bitcoin Investment Whitepaper
 
+Square is one of the most famous and biggest fin-tech companies in the world (founded by Twitter founder Jack Dorsey). In this paper they detail why they decided to invest the company funds in Bitcoin and how they plan to do that.
+
 [Read here](Square-Inc.-Bitcoin-Investment-Whitepaper.pdf)
+
+### Bitcoin for the Open-Minded Skeptic
+
+I highly recommed this article for newbies coming into Bitcoin. Its short and super interesting.
+
+[Read here](Square-Inc.-Bitcoin-Investment-Whitepaper.pdf)
+
+## Podcasts
+
+### Acquired - Bitcoin (Season 8, Episode 1)
+
+Acquired is one of my favourite podcasts (all episodes are highly recommeded). In this episode they breakdown Bitcoin history all the way to 2021.
+
+[Listen here](https://www.acquired.fm/episodes/bitcoin)
+
+## Videos
+
+### Why Bitcoin Will Take Over The World: Coinbase CEO Brian Armstrong | Uncommon Knowledge
+
+[Watch here](https://www.youtube.com/watch?v=KgUlxorY0Vc)
+
