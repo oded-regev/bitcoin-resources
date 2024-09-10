@@ -44,7 +44,7 @@ Square is one of the most famous and biggest fin-tech companies in the world (fo
 
 I highly recommed this article for newbies coming into Bitcoin. Its short and super interesting.
 
-[Read here](https://www.matthuang.com/bitcoin_for_the_open_minded_skeptic)
+[Read here](Bitcoin_For_The_Open_Minded_Skeptic.pdf)
 
 ## Podcasts
 
