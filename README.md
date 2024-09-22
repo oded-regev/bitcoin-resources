@@ -46,6 +46,10 @@ I highly recommed this article for newbies coming into Bitcoin. Its short and su
 
 [Read here](Bitcoin_For_The_Open_Minded_Skeptic.pdf)
 
+### BlackRock PDF On Why Bitcoin?
+
+[Read here](blackrock-bitcoin-a-unique-diversifier.pdf)
+
 ## Podcasts
 
 ### Acquired - Bitcoin (Season 8, Episode 1)
