@@ -77,8 +77,11 @@ Go back in time and see where Brian was then and where he is today.
 
 I think that this video marks the point for me when I actually got hooked on Bitcoin. Michael convincingly and eloquently explains the logic and rationale behind Bitcoin and why there are so many good reasons to be optimistic about the direction it's going.
 
-
 [Watch here](https://www.youtube.com/watch?v=mC43pZkpTec)
+
+### Lyn Alden Best Lecture - Broken Money at Princeton University
+
+[Watch here](https://www.youtube.com/watch?v=soGXgiGoMRU)
 
 ## Wallets
 
