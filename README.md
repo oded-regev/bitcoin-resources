@@ -38,17 +38,23 @@ This book actually covers the "dark side" of crypto. Mostly NFT's and shit-coins
 
 Square is one of the most famous and biggest fin-tech companies in the world (founded by Twitter founder Jack Dorsey). In this paper they detail why they decided to invest the company funds in Bitcoin and how they plan to do that.
 
-[Read here](Square-Inc.-Bitcoin-Investment-Whitepaper.pdf)
+[Read here](PDF/Square-Inc.-Bitcoin-Investment-Whitepaper.pdf)
 
 ### Bitcoin for the Open-Minded Skeptic
 
 I highly recommed this article for newbies coming into Bitcoin. Its short and super interesting.
 
-[Read here](Bitcoin_For_The_Open_Minded_Skeptic.pdf)
+[Read here](PDF/Bitcoin_For_The_Open_Minded_Skeptic.pdf)
 
 ### BlackRock PDF On Why Bitcoin?
 
-[Read here](blackrock-bitcoin-a-unique-diversifier.pdf)
+[Read here](PDF/blackrock-bitcoin-a-unique-diversifier.pdf)
+
+## Graphics
+
+### Ben Sigman (@bensig) - Bitcoin 101
+
+![View Image](./images/bitcoin-101-bensig.png)
 
 ## Podcasts
 
