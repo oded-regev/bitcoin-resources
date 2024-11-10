@@ -54,7 +54,7 @@ I highly recommed this article for newbies coming into Bitcoin. Its short and su
 
 ### Ben Sigman (@bensig) - Bitcoin 101
 
-![View Image](./images/bitcoin-101-bensig.png)
+[View Image](./images/bitcoin-101-bensig.png)
 
 ## Podcasts
 
