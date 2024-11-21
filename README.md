@@ -50,6 +50,12 @@ I highly recommed this article for newbies coming into Bitcoin. Its short and su
 
 [Read here](PDF/blackrock-bitcoin-a-unique-diversifier.pdf)
 
+### An (Institutional) Investor’s Take on Cryptoassets - John Pfeffer
+
+Michael Saylor mentioned in [this interview](https://www.youtube.com/watch?v=T34AYoCUA4w) that in 2020 after he was convinced with the Bitcoin thesis, he gave this article for each of MSTR board members to read, before meeting each one to get their agreement to invest in Bitcoin.
+
+[Read here](PDF/An-Investor-Take-on-Cryptoassets-v6.pdf)
+
 ## Graphics
 
 ### Ben Sigman (@bensig) - Bitcoin 101
