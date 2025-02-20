@@ -56,6 +56,14 @@ Michael Saylor mentioned in [this interview](https://www.youtube.com/watch?v=T34
 
 [Read here](PDF/An-Investor-Take-on-Cryptoassets-v6.pdf)
 
+### 2006 - Why the Global Financial System is About to Collapse
+
+In this amazing 2006 article written by anonymous economist who clearly understands super super well how monetary systems work. The key argument in this article is the transition of "savings" from fiat currencies, mainly the US dollar into gold and silver, and the eventual collapse or dramatic loss of value of the US dollar, while "savings" be transitioned into gold (or any other electronic money like gold). Keep in mind, it was written 3 years before Bitcoin was invented and the gold was trading around $600 an ounce. 
+
+"The dollar's most obvious weapon is just that gold, although it is to some extent money, is not currency. No one accepts gold in exchange for goods and services. The digital gold currencies could change this, but if they do it will be far in the future."
+
+[Read here](PDF/2006-Why-the-Global-Financial-System-is-About-to-Collapse.pdf)
+
 ## Graphics
 
 ### Ben Sigman (@bensig) - Bitcoin 101
