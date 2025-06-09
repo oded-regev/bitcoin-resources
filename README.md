@@ -46,6 +46,12 @@ I highly recommed this article for newbies coming into Bitcoin. Its short and su
 
 [Read here](PDF/Bitcoin_For_The_Open_Minded_Skeptic.pdf)
 
+### 2014 - Marc Andreeson (A16Z) - Why Bitcoin Matters
+
+It's hard to believe this article was written in 2014, more than 10 years ago. It's so "spot on" on the trajectory that Bitcoin could go travel (which some, but not all happened since). The challenges and the opportunities, all layed out very clearly.
+
+[Read here]([PDF/Bitcoin_For_The_Open_Minded_Skeptic.pdf](https://a16z.com/why-bitcoin-matters/))
+
 ### BlackRock PDF On Why Bitcoin?
 
 [Read here](PDF/blackrock-bitcoin-a-unique-diversifier.pdf)
