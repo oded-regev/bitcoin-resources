@@ -46,11 +46,17 @@ I highly recommed this article for newbies coming into Bitcoin. Its short and su
 
 [Read here](PDF/Bitcoin_For_The_Open_Minded_Skeptic.pdf)
 
-### 2014 - Marc Andreeson (A16Z) - Why Bitcoin Matters
+### 2014 - Why Bitcoin Matters - Marc Andreeson (A16Z)
 
 It's hard to believe this article was written in 2014, more than 10 years ago. It's so "spot on" on the trajectory that Bitcoin could go travel (which some, but not all happened since). The challenges and the opportunities, all layed out very clearly.
 
 [Read here]([PDF/Bitcoin_For_The_Open_Minded_Skeptic.pdf](https://a16z.com/why-bitcoin-matters/))
+
+### 1961 - Gold and Economic Freedom - by Alan Greenspan (before he was Fed chair)
+
+"The law of supply and demand is not to be conned. As the supply of money (of claims) increases relative to the supply of tangible assets in the economy, prices must eventually rise. Thus the earnings saved by the productive members of the society lose value in terms of goods."
+
+[Read here](https://constitution.org/1-Activism/mon/greenspan_gold.txt)
 
 ### BlackRock PDF On Why Bitcoin?
 
