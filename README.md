@@ -115,6 +115,10 @@ I think that this video marks the point for me when I actually got hooked on Bit
 
 [Watch here](https://www.youtube.com/watch?v=soGXgiGoMRU)
 
+### Luke Gromen: Why the CIA Doesn’t Want You Owning Gold, & Is Fort Knox Lying About Our Gold Reserve?
+
+[Watch here](https://www.youtube.com/watch?v=fxWZO0FEQ1g)
+
 ## Wallets
 
 ### [Edge Wallet](https://edge.app/)
